@@ -7,6 +7,6 @@ All of these solutions will be written and verified with Python, along with the 
 3. __Keep it simple!__
 
 ## Tasks
-- Day 1: Chronal Calibration
+- Day 1: Chronal Calibration __(72 points)__
 - Day 2: Inventory Management System
-- Day 3: TBC
+- Day 3: No Matter How You Slice It __(50 points)__
