@@ -10,3 +10,4 @@ All of these solutions will be written and verified with Python, along with the 
 - Day 1: Chronal Calibration __(72 points)__
 - Day 2: Inventory Management System
 - Day 3: No Matter How You Slice It __(50 points)__
+- Day 4: TBC
