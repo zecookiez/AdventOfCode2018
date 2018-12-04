@@ -11,7 +11,7 @@ def partAandB(logs):
         if "Guard" in action:
             guard = int(re.findall("\d+", action)[0])
         elif "wakes" in action:
-            timeSlept[guard] += (minute - start) % 60
+            timeSlept[guard] += minute - start
             guardLogs[guard] += [start, minute],
         else:
             start = minute
