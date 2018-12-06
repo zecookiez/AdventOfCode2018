@@ -19,6 +19,7 @@ squareLabel = 0
 
 # Build two squares: one is the bounding box, the other is slightly larger (For the sake of part B I've made that size for completedness)
 # If the two areas don't match up, then that point has an infinite area
+# Total time complexity: O(n * m), n and m being the size of the box respectively
 
 for square in [0, 10000 // len(puzzle) + 1]:
     for x in range(minX - square, maxX + square + 1):
