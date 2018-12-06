@@ -8,8 +8,9 @@ All of these solutions will be written and verified with Python, along with the 
 
 ## Tasks
 - Day 1: Chronal Calibration __(72 points)__
-- Day 2: Inventory Management System __(864, 474)__
+- Day 2: Inventory Management System __(864th, 474th)__
 - Day 3: No Matter How You Slice It __(32 points, 18 points)__
-- Day 4: Repose Record __(582, 412)__
+- Day 4: Repose Record __(582nd, 412th)__
 - Day 5: Alchemical Reduction __(75 points)__
-- Day 6: TBC
+- Day 6: Chronal Coordinates __(112th, 168th)__
+- Day 7: TBC
