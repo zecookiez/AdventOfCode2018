@@ -13,5 +13,6 @@ All of these solutions will be written and verified with Python, along with the 
 - Day 4: Repose Record __(582nd, 412th)__
 - Day 5: Alchemical Reduction __(75 points)__
 - Day 6: Chronal Coordinates __(112th, 168th)__
-- Day 7: The Sum of Its Parts
-- Day 8: TBC
+- Day 7: The Sum of Its Parts __(3392nd, 2526th)__
+- Day 8: Memory Maneuver __(793rd, 892nd)__
+- Day 9: N/A
