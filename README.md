@@ -2,7 +2,7 @@
 A series of challenges in spirit of the holidays 🎄
 
 All of these solutions will be written and verified with Python, along with the following goals:
-1. __Efficiency,__ where a more efficient algorithm will do the job without over-killing the problem.
+1. __Efficiency,__ where a more efficient algorithm will do the job without over-killing the problem. I am aiming for sub-15 seconds for these tasks.
 2. __Organization.__ Avoid duplicate code for better readability.
 3. __Keep it simple!__
 
@@ -15,4 +15,5 @@ All of these solutions will be written and verified with Python, along with the 
 - Day 6: Chronal Coordinates __(112th, 168th)__
 - Day 7: The Sum of Its Parts __(3392nd, 2526th)__
 - Day 8: Memory Maneuver __(793rd, 892nd)__
-- Day 9: N/A
+- Day 9: Marble Mania __(632nd, 327th)__
+- Day 10: TBC
