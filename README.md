@@ -18,4 +18,6 @@ All of these solutions will be written and verified with Python, along with the 
 - Day 9: Marble Mania __(632nd, 327th)__
 - Day 10: The Stars Align __(474th, 442nd)__
 - Day 11: Chronal Charge __(491st, 496th)__
-- Day 12: TBC
+- Day 12: Subterranean Sustainability __(654th, 542nd)__
+- Day 13: Mine Cart Madness __(42 points, 190th)__
+- Day 14: TBC
