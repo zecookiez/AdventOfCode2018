@@ -6,6 +6,13 @@ All of these solutions will be written and verified with Python, along with the 
 2. __Organization.__ Avoid duplicate code for better readability.
 3. __Keep it simple!__
 
+## Highlights
+These are the memorable challenges with notable elements in terms of:
+- Efficiency
+  - Day 14: [Chocolate Charts](https://github.com/zecookiez/AdventOfCode2018/blob/master/day14_chocolateCharts.py)
+- Organization
+  - N/A
+
 ## Tasks
 - Day 1: Chronal Calibration __(72 points)__
 - Day 2: Inventory Management System __(864th, 474th)__
@@ -20,4 +27,5 @@ All of these solutions will be written and verified with Python, along with the 
 - Day 11: Chronal Charge __(491st, 496th)__
 - Day 12: Subterranean Sustainability __(654th, 542nd)__
 - Day 13: Mine Cart Madness __(42 points, 190th)__
-- Day 14: TBC
+- Day 14: Chocolate Charts __(187th, 136th)__
+- Day 15: TBC
