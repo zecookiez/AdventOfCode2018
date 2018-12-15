@@ -11,7 +11,7 @@ These are the memorable challenges with notable elements in terms of:
 - Efficiency
   - Day 14: [Chocolate Charts](https://github.com/zecookiez/AdventOfCode2018/blob/master/day14_chocolateCharts.py)
 - Organization
-  - N/A
+  - Day 15: [Beverage Bandits](https://github.com/zecookiez/AdventOfCode2018/blob/master/day15_beverageBandits.py)
 
 ## Tasks
 - Day 1: Chronal Calibration __(72 points)__
@@ -28,4 +28,5 @@ These are the memorable challenges with notable elements in terms of:
 - Day 12: Subterranean Sustainability __(654th, 542nd)__
 - Day 13: Mine Cart Madness __(42 points, 190th)__
 - Day 14: Chocolate Charts __(187th, 136th)__
-- Day 15: TBC
+- Day 15: Beverage Bandits __(156th, 120th)__
+- Day 16: TBC
