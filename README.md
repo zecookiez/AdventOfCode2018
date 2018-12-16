@@ -29,4 +29,5 @@ These are the memorable challenges with notable elements in terms of:
 - Day 13: Mine Cart Madness __(42 points, 190th)__
 - Day 14: Chocolate Charts __(187th, 136th)__
 - Day 15: Beverage Bandits __(156th, 120th)__
-- Day 16: TBC
+- Day 16: Chronal Classification __(63 points, 111th)__
+- Day 17: TBC
