@@ -22,7 +22,7 @@ def chronal_classification(inputA, inputB):
 
     # Part A is just bruteforce, O(n), n being the number of samples
     # Part B's logical deductions take a bit more time, O(n^3) but runs much better on average. I based it off of the "relax-an-edge" approach in the Bellman-ford algorithm.
-    #  n in this case is the number of operations [bounded by 16 so technically it isn't O(n) :p]
+    #  n in this case is the number of operations [bounded by 16 so technically it is O(n) :p]
     # Time: ~100ms
     
     # Used eval() to maky my code much cooler and shorter, don't use this with professional code, you never know what could be hiding in the inputs :)
