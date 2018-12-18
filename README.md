@@ -30,4 +30,5 @@ These are the memorable challenges with notable elements in terms of:
 - Day 14: Chocolate Charts __(187th, 136th)__
 - Day 15: Beverage Bandits __(156th, 120th)__
 - Day 16: Chronal Classification __(63 points, 111th)__
-- Day 17: TBC
+- Day 17: Reservoir Research __(242nd, 228th)__
+- Day 18: TBC
