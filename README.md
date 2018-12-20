@@ -33,5 +33,5 @@ These are the memorable challenges with notable elements in terms of:
 - Day 17: Reservoir Research __(242nd, 228th)__
 - Day 18: Settlers of the North Pole __(38 points, 3 points)__
 - Day 19: Go With The Flow __(990th, 545th)__
-- Day 20: TBC
-- Day 21-25: N/A, unfortunately I won't be available to solve these problems the day they are uploaded.
+- Day 20: A Regular Map __(566th, 523rd)__
+- Day 21-25: N/A, unfortunately I won't be available to solve these problems the day these are uploaded.
